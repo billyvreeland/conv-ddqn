@@ -1,2 +1,2 @@
 # conv-ddqn
-Convolution DDQN for OpenAI CarRacing Environment
+Convolutional DDQN for OpenAI CarRacing Environment
